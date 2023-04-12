@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>sample_vehicle_launch</name>
+  <name>xrm_vehicle_launch</name>
   <version>0.1.0</version>
-  <description>The sample_vehicle_launch package</description>
+  <description>The xrm_vehicle_launch package</description>
   <maintainer email="ma.shanpeng.mn6@is.naist.jp">MA Shanpeng</maintainer>
   <license>Apache 2.0 License</license>
 

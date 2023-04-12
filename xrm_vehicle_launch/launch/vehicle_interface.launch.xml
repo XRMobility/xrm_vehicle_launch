@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <include file="$(find-pkg-share xrm_zmp_interface)/launch/xrm_zmp_interface.launch.xml"></include>
+</launch>
